@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    color: aqua;
+}
+p {
+    font-size: 70px;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
+
+ #Welcome {
+     height: 400px;
+     z-index: 9;
+     margin-top: 100px;
+}
+ #bio {
+     padding: 50px;
+     text-align: center;
+     background: linear-gradient(teal, aqua);
+     margin-top: 50px;
+ }
+ .links {
+     float: right;
+     color: brown;
+     padding-top: 5px;
+     padding-left: 9px;
+     padding-right: 9px;
+     padding-bottom: 5px;
+     font-size: 20px;
+     text-decoration: none;
+ }
+
+ .links :hover {
+     background-color: darkkhaki;
+ }
+.line {
+     height: 6px;
+     background-color: #000;
+     width: 70px;
+     margin: 8px auto;
+}
